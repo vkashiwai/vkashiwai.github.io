@@ -25,7 +25,8 @@
         "username": "victoriakashiwai",
         "url": "http://linkedin.com/in/victoriakashiwai"
       },
-  "interests": [
+      
+  "interests", [
     {
       "name": "Travelling",
       "keywords": [
@@ -42,7 +43,7 @@
       ]
     }
   ],
-  "skills": [
+  "skills", [
     {
       "name": "Languages",
       "level": "",
@@ -60,7 +61,7 @@
       ]
     }
   ],
-  "education": [
+  "education", [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Accounting and MIS (expected Spring, 2022)",
@@ -72,7 +73,7 @@
       ]
     }
   ],
-  "work": [
+  "work", [
     {
       "company": "Manoa Career Center, UH Manoa",
       "position": "Student Auditor",
