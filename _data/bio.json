@@ -89,19 +89,19 @@
 				"Organized and prepared class materials, graded and recorded homework assignments to help with assessment of students’ learning",
 				"Communicated with instructor and students to successfully conduct group and one-on-one instruction"
 			]
-		},
-		{
-			"organization": "Accounting Club UH Manoa",
-			"website": "https://acuhmanoa.org/",
-			"position": "Director of Professional Development",
-			"startDate": "",
-			"endDate": "",
-			"summary": "",
-			"highlights": [
-				"Active Member, Fall 2020-Present"
-			]
 		}
 	],
+	"organizations": [{
+		"organization": "Accounting Club UH Manoa",
+		"website": "https://acuhmanoa.org/",
+		"position": "Director of Professional Development",
+		"startDate": "",
+		"endDate": "",
+		"summary": "",
+		"highlights": [
+			"Active Member, Fall 2020-Present"
+		]
+	}],
 	"awards": [{
 			"title": "Manoa Academic Merit Scholarship",
 			"date": "2018-Present",
