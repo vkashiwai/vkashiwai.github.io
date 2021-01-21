@@ -1,137 +1,122 @@
 {
-  "basics": {
-    "name": "Victoria Kashiwai",
-    "label": "Shidler Undergraduate",
-    "picture": "https://vkashiwai.github.io/images/victoria.jpeg",
-    "email": "kashiwai@hawaii.edu",
-    "phone": "808-457-0435",
-    "website": "https://vkashiwai.github.io",
-    "summary": "I am studying for a B.B.A. in Accounting and Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96789",
-      "city": "Mililani",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "vkashiwai",
-        "url": "http://github.com/vkashiwai"
-      },
-      {
-        "network": "linkedin",
-        "username": "victoriakashiwai",
-        "url": "http://linkedin.com/in/victoriakashiwai"
-      }
-      ]
-  },
-  "interests": [
-    {
-      "name": "Travelling",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Theatre",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Data Analytics",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages",
-      "level": "",
-      "keywords": [
-        "Conversational Japanese"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Microsoft Office",
-        "Google Workspace"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Accounting and MIS (expected Spring, 2022)",
-      "studyType": "B.B.A.",
-      "startDate": "2018-08-20",
-      "endDate": "Present",
-      "gpa": "3.54",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Manoa Career Center, UH Manoa",
-      "position": "Student Auditor",
-      "website": "https://manoa.hawaii.edu/careercenter/",
-      "startDate": "2020-02-11",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Audit official documentation for hiring student employees by accurately following procedures and guidelines",
-        "Review job descriptions to ensure they abide by UH student employment policies and procedures"
-      ]
-    },
-    {
-      "company": "Department of Mathematics, UH Manoa",
-      "position": "Learning Assistant",
-      "website": "https://math.hawaii.edu/wordpress/",
-      "startDate": "2019-01",
-      "endDate": "2019-05",
-      "summary": "",
-      "highlights": [
-        "Taught students course material based on curriculum developed and guidance from instructor",
-        "Organized and prepared class materials, graded and recorded homework assignments to help with assessment of students’ learning",
-        "Communicated with instructor and students to successfully conduct group and one-on-one instruction"
-      ]
-    }
-  ],
-    {
-      "organization": "Accounting Club UH Manoa",
-      "website": "https://acuhmanoa.org/",
-      "position": "Director of Professional Development",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Active Member, Fall 2020-Present"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Manoa Academic Merit Scholarship",
-      "date": "2018-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.5 and 1200+ SAT score."
-    },
-    {
-      "title": "Mānoa Teruo and Violet Ihara Scholarship",
-      "date": "2019-2020",
-      "awarder": "UH Foundation",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
-}
+	"basics": {
+		"name": "Victoria Kashiwai",
+		"label": "Shidler Undergraduate",
+		"picture": "https://vkashiwai.github.io/images/victoria.jpeg",
+		"email": "kashiwai@hawaii.edu",
+		"phone": "808-457-0435",
+		"website": "https://vkashiwai.github.io",
+		"summary": "I am studying for a B.B.A. in Accounting and Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
+		"location": {
+			"address": "",
+			"postalCode": "96789",
+			"city": "Mililani",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "vkashiwai",
+				"url": "http://github.com/vkashiwai"
+			},
+			{
+				"network": "linkedin",
+				"username": "victoriakashiwai",
+				"url": "http://linkedin.com/in/victoriakashiwai"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Travelling",
+			"keywords": []
+		},
+		{
+			"name": "Theatre",
+			"keywords": []
+		},
+		{
+			"name": "Data Analytics",
+			"keywords": []
+		}
+	],
+	"skills": [{
+			"name": "Languages",
+			"level": "",
+			"keywords": [
+				"Conversational Japanese"
+			]
+		},
+		{
+			"name": "Toolsets/OS",
+			"level": "",
+			"keywords": [
+				"MacOS",
+				"Microsoft Office",
+				"Google Workspace"
+			]
+		}
+	],
+	"education": [{
+		"institution": "University of Hawaii, Honolulu, HI",
+		"area": "Accounting and MIS (expected Spring, 2022)",
+		"studyType": "B.B.A.",
+		"startDate": "2018-08-20",
+		"endDate": "Present",
+		"gpa": "3.54",
+		"courses": []
+	}],
+	"work": [{
+			"company": "Manoa Career Center, UH Manoa",
+			"position": "Student Auditor",
+			"website": "https://manoa.hawaii.edu/careercenter/",
+			"startDate": "2020-02-11",
+			"endDate": "Present",
+			"summary": "",
+			"highlights": [
+				"Audit official documentation for hiring student employees by accurately following procedures and guidelines",
+				"Review job descriptions to ensure they abide by UH student employment policies and procedures"
+			]
+		},
+		{
+			"company": "Department of Mathematics, UH Manoa",
+			"position": "Learning Assistant",
+			"website": "https://math.hawaii.edu/wordpress/",
+			"startDate": "2019-01",
+			"endDate": "2019-05",
+			"summary": "",
+			"highlights": [
+				"Taught students course material based on curriculum developed and guidance from instructor",
+				"Organized and prepared class materials, graded and recorded homework assignments to help with assessment of students’ learning",
+				"Communicated with instructor and students to successfully conduct group and one-on-one instruction"
+			]
+		},
+		{
+			"organization": "Accounting Club UH Manoa",
+			"website": "https://acuhmanoa.org/",
+			"position": "Director of Professional Development",
+			"startDate": "",
+			"endDate": "",
+			"summary": "",
+			"highlights": [
+				"Active Member, Fall 2020-Present"
+			]
+		}
+	],
+	"awards": [{
+			"title": "Manoa Academic Merit Scholarship",
+			"date": "2018-Present",
+			"awarder": "State of Hawaii",
+			"summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.5 and 1200+ SAT score."
+		},
+		{
+			"title": "Mānoa Teruo and Violet Ihara Scholarship",
+			"date": "2019-2020",
+			"awarder": "UH Foundation",
+			"summary": ""
+		}
+	],
+	"references": [{
+		"name": "Available upon request",
+		"reference": ""
+	}]
 }
